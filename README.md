@@ -2,6 +2,13 @@
 
 A Flutter application for directory listing. Users can search a business using keywords or city,state.
 
+# Application Overview
+<p align="center">
+  
+![](Sequence-01.gif)
+
+</p>
+
 ## Home Page
 
 <p align="center">
